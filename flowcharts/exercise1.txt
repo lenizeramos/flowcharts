@@ -1,0 +1,5 @@
+Start
+  Input LFT
+  LCM = LFT * 30
+  Print LCM
+End

@@ -1,0 +1,7 @@
+Start
+  Input A, B, C
+  if ((A < B + C) and (B < A + C) and (C < A + B))
+    print "Triangle is possible"
+  else
+    print "Triangle is impossible"
+End

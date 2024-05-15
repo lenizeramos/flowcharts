@@ -1,0 +1,11 @@
+Start
+  Input N and M
+  if (M >= 80%)
+    print "A"
+  else if (M >= 60%)
+    print "B"
+  else if (M >= 40%)
+    print "C"
+  else
+    print "No Grade"
+End
